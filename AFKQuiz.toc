@@ -1,0 +1,12 @@
+## Interface: 11303
+## Title: AFKQuiz
+
+## Notes: Quiz!
+
+## Author: Katyparry @ Zandalar Tribe
+## Version: 0.0.1
+
+## SavedVariables: AFKQuizes
+## SavedVariablesPerCharacter:
+
+AFKQuiz.lua
